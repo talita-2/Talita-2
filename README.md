@@ -1,11 +1,11 @@
-# 👩🏻‍💻 Talita
+👩🏻‍💻 Talita
 
 **`Desenvolvedora front end`**
 
 Me chamo Talita Maria, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia.
 ---
 
-### 🤖 Linguagens e Tecnologias
+🤖Linguagens e Tecnologias
 
 <img 
     align="left" 
